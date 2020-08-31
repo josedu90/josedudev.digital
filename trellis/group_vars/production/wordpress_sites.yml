@@ -12,7 +12,7 @@ wordpress_sites:
     branch: master
     multisite:
       enabled: false
-   ssl:
+      ssl:
       # SSL must be enabled
       enabled: true
       # OCSP stapling must be disabled
