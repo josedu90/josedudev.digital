@@ -1,0 +1,140 @@
+# Translation of Plugins - Product GTIN (EAN, UPC, ISBN) for WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Product GTIN (EAN, UPC, ISBN) for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-07 17:39:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Product GTIN (EAN, UPC, ISBN) for WooCommerce - Stable (latest release)\n"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:93
+msgid "Display the code as order item meta."
+msgstr "Mostrar el código como meta del elemento de pedido."
+
+#: includes/class.product-gtin-wc.php:180
+msgid "Product GTIN (EAN, UPC, ISBN) for WooCommerce is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "Product GTIN (EAN, UPC, ISBN) for WooCommerce se ha activado pero no funciona. Requiere WooCommerce para que funcione."
+
+#. Author URI of the plugin/theme
+msgid "https://emanuelacastorina.com/"
+msgstr "https://emanuelacastorina.com/"
+
+#. Author of the plugin/theme
+msgid "Emanuela Castorina"
+msgstr "Emanuela Castorina"
+
+#. Description of the plugin/theme
+msgid "Add a Global Trade Item Number (EAN, UPC, ISBN, JAN, ITF-14) field to WooCommerce"
+msgstr "Añade un campo de número para venta global (EAN, UPC, ISBN, JAN, ITF-14) a WooCommerce"
+
+#. Plugin Name of the plugin/theme
+msgid "Product GTIN (EAN, UPC, ISBN) for WooCommerce"
+msgstr "Product GTIN (EAN, UPC, ISBN) for WooCommerce"
+
+#: includes/class.product-gtin-wc-frontend.php:161
+msgid "N/A"
+msgstr "N/D"
+
+#: includes/class.product-gtin-wc-frontend.php:121
+#: includes/class.product-gtin-wc-frontend.php:204
+msgid "Code EAN:"
+msgstr "Código EAN:"
+
+#: includes/class.product-gtin-wc-admin.php:255
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/class.product-gtin-wc-admin.php:150
+msgid "Add the %s code for this product"
+msgstr "Añadir el código %s a este producto"
+
+#: includes/class.product-gtin-wc-admin.php:147
+#: includes/class.product-gtin-wc-admin.php:163
+msgid "%s Code:"
+msgstr "Código %s:"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:121
+msgid "Set this option if you want search products also by GTIN Code in administrator product list."
+msgstr "Establece esta opción si deseas buscar productos también por código GTIN en la lista de productos de administración."
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:120
+msgid "Search by Code GTIN in Admin product search"
+msgstr "Buscar por código GTIN en la búsqueda en la administración de productos"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:112
+msgid "Set this option if you want search products also by GTIN Code"
+msgstr "Establece esta opción si deseas buscar productos también por código GTIN"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:111
+msgid "Search by Code GTIN"
+msgstr "Buscar por código GTIN"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:103
+msgid "Set this option if you want hide the code when it is empty."
+msgstr "Establece esta opción si deseas ocultar el código cuando está vacío."
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:102
+msgid "Hide Code GTIN if empty"
+msgstr "Ocultar código GTIN si está vacío"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:85
+msgid "Display the code in checkout page."
+msgstr "Mostrar el código en la página de pago."
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:77
+msgid "Display the code in cart."
+msgstr "Mostrar el código en el carrito."
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:69
+msgid "Display the code in loop."
+msgstr "Mostrar el código en el loop."
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:61
+msgid "Display the code in single product page."
+msgstr "Mostrar el código en la página de producto."
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:60
+msgid "Show Code GTIN:"
+msgstr "Mostrar código GTIN:"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:54
+msgid "EAN:"
+msgstr "EAN:"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:52
+msgid "The label that the customers will see on site before the code. (i.e. \"EAN Code:\", \"UPC:\", \"ISBN-\") )"
+msgstr "La etiqueta que los clientes verán en el sitio antes del código. (es decir, \"EAN Code:\", \"UPC:\", \"ISBN-\"))"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:51
+msgid "Public label of GTIN Code"
+msgstr "Etiqueta pública del código GTIN"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:44
+#: includes/class.product-gtin-wc-admin.php:56
+#: includes/class.product-gtin-wc-frontend.php:86
+msgid "EAN"
+msgstr "EAN"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:42
+msgid "The label of code (i.e. EAN, UPC, ISBN, JAN, ITF-14) )"
+msgstr "La etiqueta del código (es decir, EAN, UPC, ISBN, JAN, ITF-14))"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:41
+msgid "Label of GTIN Code"
+msgstr "Etiqueta del código GTIN"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:36
+msgid "In this area you can set the plugin options"
+msgstr "En esta área puedes establecer las opciones del plugin"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:34
+msgid "Product GTIN Settings"
+msgstr "Ajustes de GTIN del producto"
+
+#: includes/admin/settings/settings-wpm-product-gtin-wc.php:19
+msgid "Product GTIN"
+msgstr "GTIN del producto"
